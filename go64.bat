@@ -1,0 +1,1 @@
+c:\harbour\bin\win\msvc64\harbour.exe -n test.prg
